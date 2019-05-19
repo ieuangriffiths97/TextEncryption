@@ -1,0 +1,9 @@
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\bin\Debug\TextEncryptorApp.exe.config
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\bin\Debug\TextEncryptorApp.exe
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\bin\Debug\TextEncryptorApp.pdb
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\obj\Debug\TextEncryptorApp.csprojResolveAssemblyReference.cache
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\obj\Debug\TextEncryptorApp.Form1.resources
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\obj\Debug\TextEncryptorApp.Properties.Resources.resources
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\obj\Debug\TextEncryptorApp.csproj.GenerateResource.Cache
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\obj\Debug\TextEncryptorApp.exe
+c:\users\ieuangriffiths\documents\visual studio 2015\Projects\TextEncryptorApp\TextEncryptorApp\obj\Debug\TextEncryptorApp.pdb
